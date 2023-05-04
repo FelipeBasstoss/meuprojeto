@@ -1,6 +1,6 @@
-body { /*body é todo conteudo da pagina*/
+body { /*body é todo conteúdo da página*/
     font-family: 'Open Sans', sans-serif;/*fonte*/
-    text-align: center;/*centralizou todos os conteudos da pagina ao meio*/
+    text-align: center;/*centralizou todos os conteúdos da página ao meio*/
 }
 
 #hero { /*esta armazenando a imagens id=hero*/
@@ -20,7 +20,7 @@ font-size: 49px;  /*tamanho da fonte*/
 line-height: 56px; /*define a altura de uma caixa de linha*/
 }
 
-h1 span { /* h1 esta pegando a parte do titulo e span é a parte que esta em pegando os negritos do titulo */
+h1 span { /* h1 esta pegando a parte do titulo | span é a parte que esta em negritos do titulo */
     font-weight: bold;/*fonte do titulo h1 e span*/
 
 }
@@ -30,12 +30,12 @@ h1 span { /* h1 esta pegando a parte do titulo e span é a parte que esta em peg
 p {
     
     font-family: 'Open Sans', sans-serif; /*fonte*/
-    color: #7D7987;/*cor dos texto em <p> paragravo*/
+    color: #7D7987;/*cor dos texto em <p> paragrafo*/
     font-size: 16px;
     line-height: 28px;
 }
 
-a { /*a esta pegando as parte de baixo onde estao os links (Instagra fale conosco) da pagina*/
+a { /*parte de baixo onde estao os links (Instagra fale conosco) da pagina*/
     
     font-family: 'Open Sans', sans-serif;/*fonte*/
 }
